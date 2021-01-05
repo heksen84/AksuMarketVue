@@ -11,7 +11,7 @@
         "prod_newadvert": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack_newadvert.config.js"
     },
     "devDependencies": {
-        "axios": "^0.19.0",
+        "axios": "^0.21.1",
         "bootstrap-sass": "^3.3.7",
         "browser-sync": "^2.26.7",
         "browser-sync-webpack-plugin": "^2.2.2",
